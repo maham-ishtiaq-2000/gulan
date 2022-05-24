@@ -1,0 +1,12 @@
+.button{
+    background-color: white;
+    color : purple;
+    border : 1;
+    border-width: 1px;
+    border-style: solid;
+    border-color: purple;
+    margin-left: 35%;
+    margin-bottom: 3%;
+    padding : 3%;
+    border-radius: 5px;
+}

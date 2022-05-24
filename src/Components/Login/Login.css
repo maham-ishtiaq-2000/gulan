@@ -1,0 +1,73 @@
+.float-container {
+    border: 3px solid #fff;
+    padding: 20px;
+}
+
+.float-child {
+    width: 50%;
+    float: left;
+    padding: 20px;
+    margin-top: 8%;
+}  
+
+.mainHeading{
+    font-family: 'Pushster', cursive;
+    font-size: 200px;
+    color: purple;
+    margin-left: 5%;
+}
+
+.loginForm{
+    width : 80%;
+    border : 1px;
+    border-style: solid;
+    color: purple;
+    font-weight: bold;
+    font-size: 20px;
+    border-width: 2px;
+    border-radius: 10px;
+    box-shadow: 5px 10px #888888;
+}
+
+.loginForm p{
+    margin-left: 50%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    font-family: 'Pushster', cursive;
+    font-size: 30px;
+    margin-right: 10%;
+}
+
+.loginForm form label{
+    margin-left: 30%;
+    font-family: 'Pushster', cursive;
+}
+
+.loginForm input{
+    margin-left: 3%;
+    outline: none;
+    border : 1px;
+    border-style: solid;
+    border-color: purple;
+    width : 50%;
+    border-width: 2px;
+    border-radius: 5px;
+    font-weight: none;
+}
+
+.loginForm button{
+    background-color: purple;
+    color: white;
+    padding: 5px;
+    width: 40%;
+    margin-left: 36%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+.links{
+    color: purple;
+    margin-bottom: 5%;
+    margin-left: 3%;
+}
+
